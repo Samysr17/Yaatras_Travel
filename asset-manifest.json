@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/http//:Samysr17.github.io/Travel_react/static/css/main.ff34e0c6.css",
+    "main.js": "/http//:Samysr17.github.io/Travel_react/static/js/main.055d923e.js",
+    "static/js/787.633816a4.chunk.js": "/http//:Samysr17.github.io/Travel_react/static/js/787.633816a4.chunk.js",
+    "static/media/Lake.jpg": "/http//:Samysr17.github.io/Travel_react/static/media/Lake.03f185d35b3f38ab3ab2.jpg",
+    "static/media/beachVid.mp4": "/http//:Samysr17.github.io/Travel_react/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/Eiffel.jpg": "/http//:Samysr17.github.io/Travel_react/static/media/Eiffel.521e788fc200123a4359.jpg",
+    "static/media/Water.jpg": "/http//:Samysr17.github.io/Travel_react/static/media/Water.c22cc94d33f3496c4156.jpg",
+    "static/media/Waterfall.jpg": "/http//:Samysr17.github.io/Travel_react/static/media/Waterfall.a2aad1f756c5d257a379.jpg",
+    "static/media/City.jpg": "/http//:Samysr17.github.io/Travel_react/static/media/City.9977c5fc82bb2fc58894.jpg",
+    "index.html": "/http//:Samysr17.github.io/Travel_react/index.html",
+    "main.ff34e0c6.css.map": "/http//:Samysr17.github.io/Travel_react/static/css/main.ff34e0c6.css.map",
+    "main.055d923e.js.map": "/http//:Samysr17.github.io/Travel_react/static/js/main.055d923e.js.map",
+    "787.633816a4.chunk.js.map": "/http//:Samysr17.github.io/Travel_react/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff34e0c6.css",
+    "static/js/main.055d923e.js"
+  ]
+}
