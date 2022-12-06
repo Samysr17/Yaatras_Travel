@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&family=Noto+Sans:ital,wght@1,100&family=Roboto+Slab:wght@500&display=swap');
+ 
+@layer base{
+  li{
+    @apply p-4  cursor-pointer
+ }
+ h1{
+    @apply text-3xl md:text-4xl font-bold 
+ }
+ h2{
+  @apply text-2xl font-bold
+ }
+ h3{
+  @apply text-xl font-bold
+ }
+ button{
+  @apply p-3 border bg-gradient-to-r from-yellow-500 to-yellow-200 text-white rounded-xl
+ }
+ .icons{
+  @apply text-2xl cursor-pointer text-orange-500
+ }
+}
